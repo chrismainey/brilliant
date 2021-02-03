@@ -11,6 +11,8 @@
 #' @examples
 #' percentage(50, 100)
 #'
+#' @import ggplot2
+#'
 #'
 percentage <- function(numerator, denominator){
 
