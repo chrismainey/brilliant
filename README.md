@@ -6,7 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of brilliant is to …
+This is a demo package as part of a package building tutorial. Slides
+avaialbel here:
+<https://chrismainey.github.io/PackageBuildSeminar/package_building_presentation.html>
 
 ## Installation
 
